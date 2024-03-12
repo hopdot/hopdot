@@ -1,0 +1,338 @@
+2024-01-15 17:26:45.903897: [MGR] Starting WireGuard/0.1.1 (Windows 10.0.22621; amd64)
+2024-01-15 17:26:45.944901: [MGR] Build is not official, so updates are disabled
+2024-01-15 17:26:45.962900: [MGR] Starting UI process for user ‘hcoin@HCoinx’ for session 1
+2024-01-15 17:28:03.735266: [TUN] [warpplus] Starting WireGuard/0.1.1 (Windows 10.0.22621; amd64)
+2024-01-15 17:28:03.736232: [TUN] [warpplus] Watching network interfaces
+2024-01-15 17:28:03.739225: [TUN] [warpplus] Resolving DNS names
+2024-01-15 17:28:03.790662: [TUN] [warpplus] Creating Wintun interface
+2024-01-15 17:28:04.775361: [TUN] [warpplus] Using Wintun/0.8 (NDIS 6.83)
+2024-01-15 17:28:04.812361: [TUN] [warpplus] Enabling firewall rules
+2024-01-15 17:28:05.085366: [TUN] [warpplus] Dropping privileges
+2024-01-15 17:28:05.087363: [TUN] [warpplus] Creating interface instance
+2024-01-15 17:28:05.089361: [TUN] [warpplus] Routine: encryption worker - started
+2024-01-15 17:28:05.089361: [TUN] [warpplus] Routine: encryption worker - started
+2024-01-15 17:28:05.090360: [TUN] [warpplus] Routine: decryption worker - started
+2024-01-15 17:28:05.090360: [TUN] [warpplus] Routine: handshake worker - started
+2024-01-15 17:28:05.090360: [TUN] [warpplus] Routine: encryption worker - started
+2024-01-15 17:28:05.091362: [TUN] [warpplus] Routine: decryption worker - started
+2024-01-15 17:28:05.094364: [TUN] [warpplus] Routine: handshake worker - started
+2024-01-15 17:28:05.094364: [TUN] [warpplus] Routine: handshake worker - started
+2024-01-15 17:28:05.094364: [TUN] [warpplus] Routine: decryption worker - started
+2024-01-15 17:28:05.095363: [TUN] [warpplus] Routine: encryption worker - started
+2024-01-15 17:28:05.095363: [TUN] [warpplus] Routine: decryption worker - started
+2024-01-15 17:28:05.097363: [TUN] [warpplus] Routine: handshake worker - started
+2024-01-15 17:28:05.099363: [TUN] [warpplus] Routine: event worker - started
+2024-01-15 17:28:05.099363: [TUN] [warpplus] Routine: TUN reader - started
+2024-01-15 17:28:05.099363: [TUN] [warpplus] Setting interface configuration
+2024-01-15 17:28:05.102362: [TUN] [warpplus] UAPI: Updating private key
+2024-01-15 17:28:05.103362: [TUN] [warpplus] UAPI: Removing all peers
+2024-01-15 17:28:05.103362: [TUN] [warpplus] UAPI: Transition to peer configuration
+2024-01-15 17:28:05.103362: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Created
+2024-01-15 17:28:05.104364: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Updating endpoint
+2024-01-15 17:28:05.104364: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Updating persistent keepalive interval
+2024-01-15 17:28:05.105364: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Removing all allowedips
+2024-01-15 17:28:05.112360: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Adding allowedip
+2024-01-15 17:28:05.114362: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Adding allowedip
+2024-01-15 17:28:05.121362: [TUN] [warpplus] Bringing peers up
+2024-01-15 17:28:05.146362: [TUN] [warpplus] Routine: receive incoming IPv6 - started
+2024-01-15 17:28:05.187363: [TUN] [warpplus] Routine: receive incoming IPv4 - started
+2024-01-15 17:28:05.222360: [TUN] [warpplus] UDP bind has been updated
+2024-01-15 17:28:05.238363: [TUN] [warpplus] peer(bmXO…fgyo) - Starting...
+2024-01-15 17:28:05.242364: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: sequential receiver - started
+2024-01-15 17:28:05.247361: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: nonce worker - started
+2024-01-15 17:28:05.257363: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: sequential sender - started
+2024-01-15 17:28:05.259361: [TUN] [warpplus] Monitoring default v4 routes
+2024-01-15 17:28:05.264362: [TUN] [warpplus] Binding v4 socket to interface 11 (blackhole=false)
+2024-01-15 17:28:05.274363: [TUN] [warpplus] Setting device v4 addresses
+2024-01-15 17:28:05.388361: [TUN] [warpplus] peer(bmXO…fgyo) - Sending handshake initiation
+2024-01-15 17:28:05.414363: [TUN] [warpplus] peer(bmXO…fgyo) - Awaiting keypair
+2024-01-15 17:28:06.145087: [TUN] [warpplus] Monitoring default v6 routes
+2024-01-15 17:28:06.145087: [TUN] [warpplus] Binding v6 socket to interface 11 (blackhole=false)
+2024-01-15 17:28:06.145087: [TUN] [warpplus] Setting device v6 addresses
+2024-01-15 17:28:06.498087: [TUN] [warpplus] peer(bmXO…fgyo) - Received handshake response
+2024-01-15 17:28:06.501084: [TUN] [warpplus] peer(bmXO…fgyo) - Obtained awaited keypair
+2024-01-15 17:28:06.515080: [TUN] [warpplus] Listening for UAPI requests
+2024-01-15 17:28:06.515080: [TUN] [warpplus] Startup complete
+2024-01-15 17:30:06.795179: [TUN] [warpplus] peer(bmXO…fgyo) - Sending handshake initiation
+2024-01-15 17:30:06.831499: [TUN] [warpplus] peer(bmXO…fgyo) - Received handshake response
+2024-01-15 17:30:06.832502: [TUN] [warpplus] peer(bmXO…fgyo) - Sending keepalive packet
+2024-01-15 17:30:17.500875: [TUN] [warpplus] Device closing
+2024-01-15 17:30:17.501870: [TUN] [warpplus] Routine: TUN reader - stopped
+2024-01-15 17:30:17.811870: [TUN] [warpplus] Routine: event worker - stopped
+2024-01-15 17:30:17.814871: [TUN] [warpplus] Routine: receive incoming IPv4 - stopped
+2024-01-15 17:30:17.815870: [TUN] [warpplus] Routine: receive incoming IPv6 - stopped
+2024-01-15 17:30:17.815870: [TUN] [warpplus] peer(bmXO…fgyo) - Stopping...
+2024-01-15 17:30:17.817874: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: nonce worker - stopped
+2024-01-15 17:30:17.818871: [TUN] [warpplus] Routine: handshake worker - stopped
+2024-01-15 17:30:17.818871: [TUN] [warpplus] Routine: decryption worker - stopped
+2024-01-15 17:30:17.819870: [TUN] [warpplus] Routine: encryption worker - stopped
+2024-01-15 17:30:17.819870: [TUN] [warpplus] Routine: encryption worker - stopped
+2024-01-15 17:30:17.820869: [TUN] [warpplus] Routine: encryption worker - stopped
+2024-01-15 17:30:17.820869: [TUN] [warpplus] Routine: encryption worker - stopped
+2024-01-15 17:30:17.821869: [TUN] [warpplus] Routine: handshake worker - stopped
+2024-01-15 17:30:17.821869: [TUN] [warpplus] Routine: decryption worker - stopped
+2024-01-15 17:30:17.821869: [TUN] [warpplus] Routine: decryption worker - stopped
+2024-01-15 17:30:17.822870: [TUN] [warpplus] Routine: handshake worker - stopped
+2024-01-15 17:30:17.822870: [TUN] [warpplus] Routine: handshake worker - stopped
+2024-01-15 17:30:17.822870: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: sequential receiver - stopped
+2024-01-15 17:30:17.822870: [TUN] [warpplus] Routine: decryption worker - stopped
+2024-01-15 17:30:17.823870: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: sequential sender - stopped
+2024-01-15 17:30:17.823870: [TUN] [warpplus] Interface closed
+2024-01-15 17:30:17.823870: [TUN] [warpplus] Shutting down
+2024-01-15 17:30:20.829108: [MGR] [warpplus] Found disabled service via timeout, so deleting
+2024-01-15 17:30:20.829108: [MGR] [warpplus] Tunnel service tracker finished
+2024-01-15 17:30:23.127357: [TUN] [warpplus] Starting WireGuard/0.1.1 (Windows 10.0.22621; amd64)
+2024-01-15 17:30:23.128356: [TUN] [warpplus] Watching network interfaces
+2024-01-15 17:30:23.133440: [TUN] [warpplus] Resolving DNS names
+2024-01-15 17:30:23.191772: [TUN] [warpplus] Creating Wintun interface
+2024-01-15 17:30:23.859737: [TUN] [warpplus] Using Wintun/0.8 (NDIS 6.83)
+2024-01-15 17:30:23.872735: [TUN] [warpplus] Enabling firewall rules
+2024-01-15 17:30:24.031736: [TUN] [warpplus] Dropping privileges
+2024-01-15 17:30:24.039736: [TUN] [warpplus] Creating interface instance
+2024-01-15 17:30:24.044737: [TUN] [warpplus] Routine: event worker - started
+2024-01-15 17:30:24.045736: [TUN] [warpplus] Routine: encryption worker - started
+2024-01-15 17:30:24.046738: [TUN] [warpplus] Routine: encryption worker - started
+2024-01-15 17:30:24.047736: [TUN] [warpplus] Routine: decryption worker - started
+2024-01-15 17:30:24.048738: [TUN] [warpplus] Routine: handshake worker - started
+2024-01-15 17:30:24.048738: [TUN] [warpplus] Routine: encryption worker - started
+2024-01-15 17:30:24.051739: [TUN] [warpplus] Routine: decryption worker - started
+2024-01-15 17:30:24.056736: [TUN] [warpplus] Routine: handshake worker - started
+2024-01-15 17:30:24.058736: [TUN] [warpplus] Routine: handshake worker - started
+2024-01-15 17:30:24.059737: [TUN] [warpplus] Routine: decryption worker - started
+2024-01-15 17:30:24.059737: [TUN] [warpplus] Routine: decryption worker - started
+2024-01-15 17:30:24.060737: [TUN] [warpplus] Routine: encryption worker - started
+2024-01-15 17:30:24.061738: [TUN] [warpplus] Routine: handshake worker - started
+2024-01-15 17:30:24.061738: [TUN] [warpplus] Routine: TUN reader - started
+2024-01-15 17:30:24.063737: [TUN] [warpplus] Setting interface configuration
+2024-01-15 17:30:24.065738: [TUN] [warpplus] UAPI: Updating private key
+2024-01-15 17:30:24.068736: [TUN] [warpplus] UAPI: Removing all peers
+2024-01-15 17:30:24.071736: [TUN] [warpplus] UAPI: Transition to peer configuration
+2024-01-15 17:30:24.073736: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Created
+2024-01-15 17:30:24.073736: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Updating endpoint
+2024-01-15 17:30:24.074739: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Updating persistent keepalive interval
+2024-01-15 17:30:24.076744: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Removing all allowedips
+2024-01-15 17:30:24.078740: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Adding allowedip
+2024-01-15 17:30:24.079736: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Adding allowedip
+2024-01-15 17:30:24.079736: [TUN] [warpplus] Bringing peers up
+2024-01-15 17:30:24.081737: [TUN] [warpplus] Routine: receive incoming IPv6 - started
+2024-01-15 17:30:24.082744: [TUN] [warpplus] Routine: receive incoming IPv4 - started
+2024-01-15 17:30:24.085737: [TUN] [warpplus] UDP bind has been updated
+2024-01-15 17:30:24.086738: [TUN] [warpplus] peer(bmXO…fgyo) - Starting...
+2024-01-15 17:30:24.086738: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: sequential receiver - started
+2024-01-15 17:30:24.086738: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: nonce worker - started
+2024-01-15 17:30:24.087738: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: sequential sender - started
+2024-01-15 17:30:24.087738: [TUN] [warpplus] Monitoring default v4 routes
+2024-01-15 17:30:24.087738: [TUN] [warpplus] Binding v4 socket to interface 11 (blackhole=false)
+2024-01-15 17:30:24.088738: [TUN] [warpplus] Setting device v4 addresses
+2024-01-15 17:30:24.144738: [TUN] [warpplus] peer(bmXO…fgyo) - Sending handshake initiation
+2024-01-15 17:30:24.151744: [TUN] [warpplus] peer(bmXO…fgyo) - Awaiting keypair
+2024-01-15 17:30:24.534540: [TUN] [warpplus] Monitoring default v6 routes
+2024-01-15 17:30:24.534540: [TUN] [warpplus] Binding v6 socket to interface 11 (blackhole=false)
+2024-01-15 17:30:24.535543: [TUN] [warpplus] Setting device v6 addresses
+2024-01-15 17:30:24.710404: [TUN] [warpplus] Listening for UAPI requests
+2024-01-15 17:30:24.710404: [TUN] [warpplus] Startup complete
+2024-01-15 17:30:25.223709: [TUN] [warpplus] peer(bmXO…fgyo) - Received handshake response
+2024-01-15 17:30:25.223709: [TUN] [warpplus] peer(bmXO…fgyo) - Obtained awaited keypair
+2024-01-15 17:32:25.427488: [TUN] [warpplus] peer(bmXO…fgyo) - Sending handshake initiation
+2024-01-15 17:32:25.461488: [TUN] [warpplus] peer(bmXO…fgyo) - Received handshake response
+2024-01-15 17:32:25.462485: [TUN] [warpplus] peer(bmXO…fgyo) - Sending keepalive packet
+2024-01-15 17:34:10.279743: [MGR] [warpplus] Tunnel service tracker finished
+2024-01-15 17:34:10.796743: [TUN] [Hcoinx] Starting WireGuard/0.1.1 (Windows 10.0.22621; amd64)
+2024-01-15 17:34:10.812742: [TUN] [Hcoinx] Watching network interfaces
+2024-01-15 17:34:10.841741: [TUN] [Hcoinx] Resolving DNS names
+2024-01-15 17:34:10.844743: [TUN] [Hcoinx] Creating Wintun interface
+2024-01-15 17:34:11.357896: [TUN] [warpplus] Device closing
+2024-01-15 17:34:11.372424: [TUN] [warpplus] Routine: TUN reader - stopped
+2024-01-15 17:34:11.615016: [TUN] [warpplus] Routine: event worker - stopped
+2024-01-15 17:34:11.624552: [TUN] [warpplus] Routine: receive incoming IPv4 - stopped
+2024-01-15 17:34:11.626564: [TUN] [warpplus] Routine: receive incoming IPv6 - stopped
+2024-01-15 17:34:11.628576: [TUN] [warpplus] Routine: decryption worker - stopped
+2024-01-15 17:34:11.629576: [TUN] [warpplus] peer(bmXO…fgyo) - Stopping...
+2024-01-15 17:34:11.630575: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: sequential receiver - stopped
+2024-01-15 17:34:11.630575: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: sequential sender - stopped
+2024-01-15 17:34:11.635096: [TUN] [warpplus] Routine: decryption worker - stopped
+2024-01-15 17:34:11.640125: [TUN] [warpplus] Routine: decryption worker - stopped
+2024-01-15 17:34:11.646638: [TUN] [warpplus] Routine: handshake worker - stopped
+2024-01-15 17:34:11.660169: [TUN] [warpplus] Routine: handshake worker - stopped
+2024-01-15 17:34:11.670695: [TUN] [warpplus] Routine: handshake worker - stopped
+2024-01-15 17:34:11.675203: [TUN] [warpplus] Routine: encryption worker - stopped
+2024-01-15 17:34:11.676213: [TUN] [warpplus] Routine: encryption worker - stopped
+2024-01-15 17:34:11.678728: [TUN] [warpplus] Routine: encryption worker - stopped
+2024-01-15 17:34:11.690272: [TUN] [warpplus] Routine: encryption worker - stopped
+2024-01-15 17:34:11.691272: [TUN] [warpplus] Routine: decryption worker - stopped
+2024-01-15 17:34:11.692270: [TUN] [warpplus] Routine: handshake worker - stopped
+2024-01-15 17:34:11.692270: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: nonce worker - stopped
+2024-01-15 17:34:11.693273: [TUN] [warpplus] Interface closed
+2024-01-15 17:34:11.693273: [TUN] [warpplus] Shutting down
+2024-01-15 17:34:12.429994: [TUN] [Hcoinx] Using Wintun/0.8 (NDIS 6.83)
+2024-01-15 17:34:12.459262: [TUN] [Hcoinx] Enabling firewall rules
+2024-01-15 17:34:12.613294: [TUN] [Hcoinx] Dropping privileges
+2024-01-15 17:34:12.662975: [TUN] [Hcoinx] Creating interface instance
+2024-01-15 17:34:12.704634: [TUN] [Hcoinx] Routine: event worker - started
+2024-01-15 17:34:12.717712: [TUN] [Hcoinx] Routine: encryption worker - started
+2024-01-15 17:34:12.729252: [TUN] [Hcoinx] Routine: encryption worker - started
+2024-01-15 17:34:12.737793: [TUN] [Hcoinx] Routine: decryption worker - started
+2024-01-15 17:34:12.743791: [TUN] [Hcoinx] Routine: handshake worker - started
+2024-01-15 17:34:12.746318: [TUN] [Hcoinx] Routine: encryption worker - started
+2024-01-15 17:34:12.750338: [TUN] [Hcoinx] Routine: decryption worker - started
+2024-01-15 17:34:12.754847: [TUN] [Hcoinx] Routine: handshake worker - started
+2024-01-15 17:34:12.765387: [TUN] [Hcoinx] Routine: encryption worker - started
+2024-01-15 17:34:12.771411: [TUN] [Hcoinx] Routine: decryption worker - started
+2024-01-15 17:34:12.773412: [TUN] [Hcoinx] Routine: handshake worker - started
+2024-01-15 17:34:12.779473: [TUN] [Hcoinx] Routine: handshake worker - started
+2024-01-15 17:34:12.793018: [TUN] [Hcoinx] Routine: decryption worker - started
+2024-01-15 17:34:12.796546: [TUN] [Hcoinx] Routine: TUN reader - started
+2024-01-15 17:34:12.806091: [TUN] [Hcoinx] Setting interface configuration
+2024-01-15 17:34:12.811619: [TUN] [Hcoinx] UAPI: Updating private key
+2024-01-15 17:34:12.833616: [TUN] [Hcoinx] Bringing peers up
+2024-01-15 17:34:12.858616: [TUN] [Hcoinx] Routine: receive incoming IPv6 - started
+2024-01-15 17:34:12.863630: [TUN] [Hcoinx] Routine: receive incoming IPv4 - started
+2024-01-15 17:34:12.868631: [TUN] [Hcoinx] UDP bind has been updated
+2024-01-15 17:34:12.871628: [TUN] [Hcoinx] Monitoring default v4 routes
+2024-01-15 17:34:12.876631: [TUN] [Hcoinx] Binding v4 socket to interface 11 (blackhole=false)
+2024-01-15 17:34:12.881159: [TUN] [Hcoinx] Setting device v4 addresses
+2024-01-15 17:34:13.118215: [TUN] [Hcoinx] Monitoring default v6 routes
+2024-01-15 17:34:13.118215: [TUN] [Hcoinx] Binding v6 socket to interface 11 (blackhole=false)
+2024-01-15 17:34:13.120213: [TUN] [Hcoinx] Setting device v6 addresses
+2024-01-15 17:34:13.351289: [TUN] [Hcoinx] Listening for UAPI requests
+2024-01-15 17:34:13.352283: [TUN] [Hcoinx] Startup complete
+2024-01-15 17:38:16.387293: [TUN] [warpplus] Starting WireGuard/0.1.1 (Windows 10.0.22621; amd64)
+2024-01-15 17:38:16.388293: [TUN] [warpplus] Watching network interfaces
+2024-01-15 17:38:16.410290: [TUN] [warpplus] Resolving DNS names
+2024-01-15 17:38:16.527837: [TUN] [warpplus] Creating Wintun interface
+2024-01-15 17:38:16.639354: [TUN] [Hcoinx] Device closing
+2024-01-15 17:38:16.646356: [TUN] [Hcoinx] Routine: TUN reader - stopped
+2024-01-15 17:38:16.858431: [TUN] [Hcoinx] Routine: event worker - stopped
+2024-01-15 17:38:16.868442: [TUN] [Hcoinx] Routine: receive incoming IPv4 - stopped
+2024-01-15 17:38:16.871441: [TUN] [Hcoinx] Routine: receive incoming IPv6 - stopped
+2024-01-15 17:38:16.872441: [TUN] [Hcoinx] Routine: handshake worker - stopped
+2024-01-15 17:38:16.872441: [TUN] [Hcoinx] Routine: encryption worker - stopped
+2024-01-15 17:38:16.873951: [TUN] [Hcoinx] Routine: handshake worker - stopped
+2024-01-15 17:38:16.876963: [TUN] [Hcoinx] Routine: decryption worker - stopped
+2024-01-15 17:38:16.881967: [TUN] [Hcoinx] Routine: handshake worker - stopped
+2024-01-15 17:38:16.884966: [TUN] [Hcoinx] Routine: handshake worker - stopped
+2024-01-15 17:38:16.884966: [TUN] [Hcoinx] Routine: decryption worker - stopped
+2024-01-15 17:38:16.885963: [TUN] [Hcoinx] Routine: decryption worker - stopped
+2024-01-15 17:38:16.886962: [TUN] [Hcoinx] Routine: decryption worker - stopped
+2024-01-15 17:38:16.886962: [TUN] [Hcoinx] Routine: encryption worker - stopped
+2024-01-15 17:38:16.888964: [TUN] [Hcoinx] Routine: encryption worker - stopped
+2024-01-15 17:38:16.888964: [TUN] [Hcoinx] Routine: encryption worker - stopped
+2024-01-15 17:38:16.895960: [TUN] [Hcoinx] Interface closed
+2024-01-15 17:38:16.896962: [TUN] [Hcoinx] Shutting down
+2024-01-15 17:38:17.889241: [TUN] [warpplus] Using Wintun/0.8 (NDIS 6.83)
+2024-01-15 17:38:17.912843: [TUN] [warpplus] Enabling firewall rules
+2024-01-15 17:38:18.338815: [TUN] [warpplus] Dropping privileges
+2024-01-15 17:38:18.388991: [TUN] [warpplus] Creating interface instance
+2024-01-15 17:38:18.390991: [TUN] [warpplus] Routine: event worker - started
+2024-01-15 17:38:18.397531: [TUN] [warpplus] Routine: handshake worker - started
+2024-01-15 17:38:18.407076: [TUN] [warpplus] Routine: encryption worker - started
+2024-01-15 17:38:18.417612: [TUN] [warpplus] Routine: decryption worker - started
+2024-01-15 17:38:18.422123: [TUN] [warpplus] Routine: handshake worker - started
+2024-01-15 17:38:18.424137: [TUN] [warpplus] Routine: encryption worker - started
+2024-01-15 17:38:18.434687: [TUN] [warpplus] Routine: decryption worker - started
+2024-01-15 17:38:18.437686: [TUN] [warpplus] Routine: encryption worker - started
+2024-01-15 17:38:18.440686: [TUN] [warpplus] Routine: encryption worker - started
+2024-01-15 17:38:18.443215: [TUN] [warpplus] Routine: decryption worker - started
+2024-01-15 17:38:18.445226: [TUN] [warpplus] Routine: handshake worker - started
+2024-01-15 17:38:18.448232: [TUN] [warpplus] Routine: handshake worker - started
+2024-01-15 17:38:18.451238: [TUN] [warpplus] Routine: decryption worker - started
+2024-01-15 17:38:18.454291: [TUN] [warpplus] Routine: TUN reader - started
+2024-01-15 17:38:18.461292: [TUN] [warpplus] Setting interface configuration
+2024-01-15 17:38:18.463818: [TUN] [warpplus] UAPI: Updating private key
+2024-01-15 17:38:18.468835: [TUN] [warpplus] UAPI: Removing all peers
+2024-01-15 17:38:18.469831: [TUN] [warpplus] UAPI: Transition to peer configuration
+2024-01-15 17:38:18.472340: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Created
+2024-01-15 17:38:18.473353: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Updating endpoint
+2024-01-15 17:38:18.480367: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Updating persistent keepalive interval
+2024-01-15 17:38:18.480367: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Removing all allowedips
+2024-01-15 17:38:18.481366: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Adding allowedip
+2024-01-15 17:38:18.482875: [TUN] [warpplus] peer(bmXO…fgyo) - UAPI: Adding allowedip
+2024-01-15 17:38:18.484906: [TUN] [warpplus] Bringing peers up
+2024-01-15 17:38:18.486905: [TUN] [warpplus] Routine: receive incoming IPv6 - started
+2024-01-15 17:38:18.486905: [TUN] [warpplus] Routine: receive incoming IPv4 - started
+2024-01-15 17:38:18.490904: [TUN] [warpplus] UDP bind has been updated
+2024-01-15 17:38:18.490904: [TUN] [warpplus] peer(bmXO…fgyo) - Starting...
+2024-01-15 17:38:18.490904: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: sequential receiver - started
+2024-01-15 17:38:18.490904: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: nonce worker - started
+2024-01-15 17:38:18.490904: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: sequential sender - started
+2024-01-15 17:38:18.490904: [TUN] [warpplus] Monitoring default v4 routes
+2024-01-15 17:38:18.492415: [TUN] [warpplus] Binding v4 socket to interface 11 (blackhole=false)
+2024-01-15 17:38:18.493427: [TUN] [warpplus] Setting device v4 addresses
+2024-01-15 17:38:18.549105: [TUN] [warpplus] peer(bmXO…fgyo) - Sending handshake initiation
+2024-01-15 17:38:18.560154: [TUN] [warpplus] peer(bmXO…fgyo) - Awaiting keypair
+2024-01-15 17:38:18.715927: [TUN] [warpplus] peer(bmXO…fgyo) - Received handshake response
+2024-01-15 17:38:18.731451: [TUN] [warpplus] peer(bmXO…fgyo) - Obtained awaited keypair
+2024-01-15 17:38:18.766112: [TUN] [warpplus] Monitoring default v6 routes
+2024-01-15 17:38:18.766112: [TUN] [warpplus] Binding v6 socket to interface 11 (blackhole=false)
+2024-01-15 17:38:18.767117: [TUN] [warpplus] Setting device v6 addresses
+2024-01-15 17:38:18.947729: [TUN] [warpplus] Listening for UAPI requests
+2024-01-15 17:38:18.947729: [TUN] [warpplus] Startup complete
+2024-01-15 17:38:19.906698: [MGR] [Hcoinx] Found disabled service via timeout, so deleting
+2024-01-15 17:38:19.908661: [MGR] [Hcoinx] Tunnel service tracker finished
+2024-01-15 17:38:29.294861: [TUN] [Hcoinx] Starting WireGuard/0.1.1 (Windows 10.0.22621; amd64)
+2024-01-15 17:38:29.295862: [TUN] [Hcoinx] Watching network interfaces
+2024-01-15 17:38:29.301867: [TUN] [Hcoinx] Resolving DNS names
+2024-01-15 17:38:29.303863: [TUN] [Hcoinx] Creating Wintun interface
+2024-01-15 17:38:29.538932: [TUN] [warpplus] Device closing
+2024-01-15 17:38:29.546929: [TUN] [warpplus] Routine: TUN reader - stopped
+2024-01-15 17:38:30.020081: [TUN] [warpplus] Routine: event worker - stopped
+2024-01-15 17:38:30.022081: [TUN] [warpplus] Routine: receive incoming IPv4 - stopped
+2024-01-15 17:38:30.023080: [TUN] [warpplus] Routine: receive incoming IPv6 - stopped
+2024-01-15 17:38:30.030079: [TUN] [warpplus] peer(bmXO…fgyo) - Stopping...
+2024-01-15 17:38:30.032081: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: sequential receiver - stopped
+2024-01-15 17:38:30.035079: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: sequential sender - stopped
+2024-01-15 17:38:30.048081: [TUN] [warpplus] Routine: encryption worker - stopped
+2024-01-15 17:38:30.057093: [TUN] [warpplus] Routine: encryption worker - stopped
+2024-01-15 17:38:30.074604: [TUN] [warpplus] Routine: encryption worker - stopped
+2024-01-15 17:38:30.081603: [TUN] [warpplus] Routine: encryption worker - stopped
+2024-01-15 17:38:30.094603: [TUN] [warpplus] Routine: decryption worker - stopped
+2024-01-15 17:38:30.097606: [TUN] [warpplus] Routine: handshake worker - stopped
+2024-01-15 17:38:30.098606: [TUN] [warpplus] Routine: decryption worker - stopped
+2024-01-15 17:38:30.100613: [TUN] [warpplus] Routine: decryption worker - stopped
+2024-01-15 17:38:30.101607: [TUN] [warpplus] Routine: handshake worker - stopped
+2024-01-15 17:38:30.101607: [TUN] [warpplus] Routine: handshake worker - stopped
+2024-01-15 17:38:30.101607: [TUN] [warpplus] Routine: handshake worker - stopped
+2024-01-15 17:38:30.102605: [TUN] [warpplus] Routine: decryption worker - stopped
+2024-01-15 17:38:30.129603: [TUN] [warpplus] peer(bmXO…fgyo) - Routine: nonce worker - stopped
+2024-01-15 17:38:30.153616: [TUN] [warpplus] Interface closed
+2024-01-15 17:38:30.179132: [TUN] [warpplus] Shutting down
+2024-01-15 17:38:30.297960: [TUN] [Hcoinx] Using Wintun/0.8 (NDIS 6.83)
+2024-01-15 17:38:30.315674: [TUN] [Hcoinx] Enabling firewall rules
+2024-01-15 17:38:30.390215: [TUN] [Hcoinx] Dropping privileges
+2024-01-15 17:38:30.392215: [TUN] [Hcoinx] Creating interface instance
+2024-01-15 17:38:30.408211: [TUN] [Hcoinx] Routine: event worker - started
+2024-01-15 17:38:30.425213: [TUN] [Hcoinx] Routine: encryption worker - started
+2024-01-15 17:38:30.435221: [TUN] [Hcoinx] Routine: encryption worker - started
+2024-01-15 17:38:30.440219: [TUN] [Hcoinx] Routine: decryption worker - started
+2024-01-15 17:38:30.443212: [TUN] [Hcoinx] Routine: handshake worker - started
+2024-01-15 17:38:30.451232: [TUN] [Hcoinx] Routine: encryption worker - started
+2024-01-15 17:38:30.458228: [TUN] [Hcoinx] Routine: decryption worker - started
+2024-01-15 17:38:30.464752: [TUN] [Hcoinx] Routine: handshake worker - started
+2024-01-15 17:38:30.468754: [TUN] [Hcoinx] Routine: encryption worker - started
+2024-01-15 17:38:30.470751: [TUN] [Hcoinx] Routine: decryption worker - started
+2024-01-15 17:38:30.472750: [TUN] [Hcoinx] Routine: handshake worker - started
+2024-01-15 17:38:30.479750: [TUN] [Hcoinx] Routine: handshake worker - started
+2024-01-15 17:38:30.486752: [TUN] [Hcoinx] Routine: decryption worker - started
+2024-01-15 17:38:30.488748: [TUN] [Hcoinx] Routine: TUN reader - started
+2024-01-15 17:38:30.492751: [TUN] [Hcoinx] Setting interface configuration
+2024-01-15 17:38:30.495749: [TUN] [Hcoinx] UAPI: Updating private key
+2024-01-15 17:38:30.497750: [TUN] [Hcoinx] Bringing peers up
+2024-01-15 17:38:30.504754: [TUN] [Hcoinx] Routine: receive incoming IPv6 - started
+2024-01-15 17:38:30.507751: [TUN] [Hcoinx] Routine: receive incoming IPv4 - started
+2024-01-15 17:38:30.522750: [TUN] [Hcoinx] UDP bind has been updated
+2024-01-15 17:38:30.527750: [TUN] [Hcoinx] Monitoring default v4 routes
+2024-01-15 17:38:30.530752: [TUN] [Hcoinx] Binding v4 socket to interface 11 (blackhole=false)
+2024-01-15 17:38:30.538753: [TUN] [Hcoinx] Setting device v4 addresses
+2024-01-15 17:38:30.774134: [TUN] [Hcoinx] Monitoring default v6 routes
+2024-01-15 17:38:30.774134: [TUN] [Hcoinx] Binding v6 socket to interface 11 (blackhole=false)
+2024-01-15 17:38:30.775134: [TUN] [Hcoinx] Setting device v6 addresses
+2024-01-15 17:38:30.976196: [TUN] [Hcoinx] Monitoring default v4 routes
+2024-01-15 17:38:30.976196: [TUN] [Hcoinx] Binding v4 socket to interface 11 (blackhole=false)
+2024-01-15 17:38:30.977199: [TUN] [Hcoinx] Setting device v4 addresses
+2024-01-15 17:38:31.144476: [TUN] [Hcoinx] Monitoring default v6 routes
+2024-01-15 17:38:31.144476: [TUN] [Hcoinx] Binding v6 socket to interface 11 (blackhole=false)
+2024-01-15 17:38:31.145476: [TUN] [Hcoinx] Setting device v6 addresses
+2024-01-15 17:38:31.349554: [TUN] [Hcoinx] Listening for UAPI requests
+2024-01-15 17:38:31.350559: [TUN] [Hcoinx] Startup complete
+2024-01-15 17:38:33.248833: [MGR] [warpplus] Found disabled service via timeout, so deleting
+2024-01-15 17:38:33.248833: [MGR] [warpplus] Tunnel service tracker finished
